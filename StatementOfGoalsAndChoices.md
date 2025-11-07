@@ -40,10 +40,11 @@ The different majors that I had complete my survey included:
 - Pre-Med (Computer Science /Biology)
 - Psychology 
 - Business
-- 
+  
 I wanted to make sure that people not in STEM could complete and understand the content, and they could. The psychology major did well, and so did the biology major. I also asked two children under the age of 14 to complete it, and they did pretty well. 
 For the Zines, I just used the Canva Zine as a reference and designed the others accordingly. I really let my creativity take control of creating the other zines and there was no real design process, just what I felt worked with the material. 
 
 ### Reflections
 
 I love the puzzles and problems in the project; they are interesting and fun. I also am proud of the concepts and the topic of mathematics as an art. I effectively showed the point that I was trying to make. The two zines I made that are math as an art are my favorite parts and the parts I am most proud of. If I were to repeat this project, I would make the targeted audience very specific and have that down before I even start. Next time it would be interesting to make it for younger children and also a project targeted for people in STEM and higher level maths. I also really liked making all the components in the project. If I make this project again, I think I will use something other than Twine. Sometimes I felt the Twine game was unnecessary, but it worked for this project. 
+
